@@ -6,4 +6,3 @@ pandas
 sympy
 nose
 scikit-learn
-ase
